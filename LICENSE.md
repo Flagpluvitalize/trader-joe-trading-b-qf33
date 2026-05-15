@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with automatic dydx trading bot Tool | slippage-control + transaction-batching, the #1 dydx trading bot. Includes slippage-control and transaction-batching
 
 
 
